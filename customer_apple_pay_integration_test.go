@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/braintree-go/braintree-go/testhelpers"
+	"github.com/buu700/braintree-go-tmp/testhelpers"
 )
 
 func TestCustomerApplePayCard(t *testing.T) {

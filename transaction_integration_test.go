@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/braintree-go/braintree-go/testhelpers"
+	"github.com/buu700/braintree-go-tmp/testhelpers"
 )
 
 func randomAmount() *Decimal {

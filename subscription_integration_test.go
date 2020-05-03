@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/braintree-go/braintree-go/testhelpers"
+	"github.com/buu700/braintree-go-tmp/testhelpers"
 )
 
 // This test will fail unless you set up your Braintree sandbox account correctly. See TESTING.md for details.

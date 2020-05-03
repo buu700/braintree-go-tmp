@@ -1,1 +1,1 @@
-module github.com/braintree-go/braintree-go
+module github.com/buu700/braintree-go-tmp
